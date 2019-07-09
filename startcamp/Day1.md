@@ -127,3 +127,4 @@
    kospi = soup.select_one('#KOSPI_now').text
    print(kospi)
    ```
+
