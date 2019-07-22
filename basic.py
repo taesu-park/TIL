@@ -1,7 +1,7 @@
 import requests
 import pprint
 import csv
-key = '2047d49e66779dd099ae7cc8e9d9bfd2'
+key = '----'
 targetDt = '20190713' #yyyymmdd
 weekGb = '0'
 

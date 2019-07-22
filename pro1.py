@@ -1,7 +1,7 @@
 import datetime
 import requests
 import csv
-key = '2047d49e66779dd099ae7cc8e9d9bfd2'
+key = '-----'
 movie_data = {}
 for i in range (5):
     targetDt = datetime.datetime(2019,7,13) - datetime.timedelta(weeks=i)
